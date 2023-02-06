@@ -9,9 +9,9 @@ import theCMS from '../cms/netlify/cms'
  * General Site configurations
  */
 export default {
-  siteName: 'Awake',
-  tagline: 'A Nuxt.js Theme for Netlify CMS',
-  featureImage: '/uploads/home-hero.jpg',
+  siteName: 'Butters Dais personal space',
+  tagline: 'AKA dousha',
+  featureImage: '/uploads/top.png',
   logo: 'logo-component', // 'logo-component', // or '/logo.svg' for regular image
   googleAnalytics: {
     on: true,

@@ -1,13 +1,3 @@
-<template>
-  <modal-overlay
-    id="newsletter-modal"
-    :title="title"
-    trigger-text="Subscribe To Newsletter"
-    class="newsletter-modal"
-  >
-    <news-letter-form />
-  </modal-overlay>
-</template>
 <script>
 import ModalOverlay from '~/components/ModalOverlay'
 import NewsLetterForm from '~/components/NewsLetterForm'
