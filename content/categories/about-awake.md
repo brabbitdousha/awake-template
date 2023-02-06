@@ -1,5 +1,5 @@
 ---
-name: Butters Dai's personal space
+name: Butters Dai s personal space
 image: /uploads/icon.jpg
 description: aka dousha
 ---
