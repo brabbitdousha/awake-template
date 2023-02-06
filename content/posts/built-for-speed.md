@@ -1,5 +1,5 @@
 ---
-title: Built For Speed
+title: Fucked day
 subtitle: Awake is Built to Be Blazing Fast
 category:
   - About Awake
